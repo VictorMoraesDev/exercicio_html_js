@@ -1,0 +1,31 @@
+form {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.certo {
+    color: green;
+}
+
+.errado {
+    color: red;
+}
+
+.resultado {
+    font-weight: bold;
+    margin-top: 10px;
+}
